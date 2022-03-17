@@ -2,7 +2,7 @@
 
 ABOUT ME:
 
-If you saw me at a coffee shop, you'd probably notice I'm a 5'3" Asian American coffee drinker, with a backpack, typing. Typing what? I’m coding web dev projects or writing a story! If not, then I’m reading. Love for reading comes from my curious, creative spirit, and conscientious enthusiasm to do well. To write and code well, we must read. (Keep reading...)
+If you saw me at a coffee shop, you'd probably notice I'm a 5'3" Asian American coffee drinker, with a backpack, typing. Typing what? I’m coding web dev projects or writing a story! If not, then I’m reading. Love for reading comes from my curious, creative spirit, and conscientious enthusiasm to do well. To write and code well, we must read.
 
 ☕️ At the coffee shop, I’ve probably been buckled down, focused for hours. Another long standing trait. But when I’m not in the zone, my husband and I are pursuing community. We find great purpose in good company, e.g. where everyone feels welcomed and valued. And I think we’re pretty good at building it. People often tell me I’m a good listener.
 
