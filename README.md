@@ -58,7 +58,7 @@
   <br> 
 `masters student (at one of the top 10 Family Nurse Practitioner Programs in the US- then realized it was not the profession for me),`
   <br> 
-`graduate of Flatiron School’s software engineering bootcamp]`
+`graduate of Flatiron School’s software engineering bootcamp.]`
   <br> 
   `// TLDR: 🎓🏙 🩺 🐕‍🦺 🏡 🍼 💍 📚 👩🏻‍💻`
   <br> 
