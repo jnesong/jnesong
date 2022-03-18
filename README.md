@@ -48,7 +48,9 @@
   <br> 
 `registered nurse at 3 different highly-ranked hospitals (alongside the most incredible humans),`
   <br> 
-`first-time dog mom, first-time homeowner,`
+`first-time dog mom,`
+  <br> 
+`first-time homeowner,`
   <br> 
 `first-time aunt (now to 3 nieces),`
   <br> 
