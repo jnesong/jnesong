@@ -60,7 +60,7 @@
   <br> 
 `graduate of Flatiron School’s software engineering bootcamp.]`
   <br> 
-  `// TLDR: 🎓🏙 🩺 🐕‍🦺 🏡 🍼 💍 📚 👩🏻‍💻`
+  `// TLDR: 🎓 🏙 🩺 🐕‍🦺 🏡 🍼 💍 📚 👩🏻‍💻`
   <br> 
 `}`
 <br> 
