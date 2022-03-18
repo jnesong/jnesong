@@ -42,21 +42,21 @@
   <br> 
   `for ( Jenny in last five years ) {`
   <br> 
-  `Jenny = [university graduate,
+  `Jenny = [university graduate,`
     <br> 
-resident in 3 different cities,
+`resident in 3 different cities,`
   <br> 
-registered nurse at 3 different highly-ranked hospitals (alongside the most incredible humans),
+`registered nurse at 3 different highly-ranked hospitals (alongside the most incredible humans),`
   <br> 
-first-time dog mom, first-time homeowner,
+`first-time dog mom, first-time homeowner,`
   <br> 
-first-time aunt (now to 3 nieces),
+`first-time aunt (now to 3 nieces),`
   <br> 
-fiance and now wife,
+`fiance and now wife,`
   <br> 
-masters student (at one of the top 10 Family Nurse Practitioner Programs in the US- then realized it was not the profession for me),
+`masters student (at one of the top 10 Family Nurse Practitioner Programs in the US- then realized it was not the profession for me),`
   <br> 
-graduate of Flatiron School’s software engineering bootcamp]`
+`graduate of Flatiron School’s software engineering bootcamp]`
   <br> 
   `// TLDR: 🎓🏙 🩺 🐕‍🦺 🏡 🍼 💍 📚 👩🏻‍💻`
   <br> 
