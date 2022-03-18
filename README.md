@@ -34,9 +34,7 @@
   <br> 
   `// I find great purpose in good company (const good company = where everyone feels welcomed and valued).`
   <br> 
-  `// And I think I'm pretty good at building it.`
-  <br> 
-  `// People often tell me I’m a good listener.`
+  `// And people often tell me I’m a good listener.`
   <br> 
 `&&`
 <br> 
