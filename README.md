@@ -5,7 +5,7 @@
 <br> 
 `Jenny = [I'm a 5'3" Asian American coffee drinker, with a backpack, typing.] `
   <br> 
-  `// Typing what? I’m coding web dev projects : writing a story! `
+  `// Typing what? I’m coding web dev projects || writing a story! `
   <br> 
 `}`
 <br> 
