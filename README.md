@@ -44,7 +44,7 @@
   <br> 
   `Jenny = [university graduate,`
     <br> 
-`resident in 3 different cities,`
+`resident in 3 different cities I love (Charlottesville, Fairfax, Rochester),`
   <br> 
 `registered nurse at 3 different highly-ranked hospitals (alongside the most incredible humans),`
   <br> 
