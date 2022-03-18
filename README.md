@@ -2,14 +2,24 @@
 
 
 if (you saw me at a coffee shop,) {
+<br> 
   let Jenny = I'm a 5'3" Asian American coffee drinker, with a backpack, typing. 
+  <br> 
   Typing what? I’m coding web dev projects : writing a story! 
+  <br> 
 }
+<br> 
 else {
+<br> 
   I’m reading.
+  <br> 
   Love for reading comes from my curious, creative spirit, and conscientious enthusiasm to do well.
+  <br> 
   To write and code well, we must read.
+  <br> 
 }
+<br>
+<br> 
 
 ☕️ 
 if (at the coffee shop,) {
