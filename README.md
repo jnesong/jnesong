@@ -52,7 +52,7 @@
 <br> 
 <br> 
 
-`// That’s where the 🎒 comes in. I love to be prepared and always learning. Conscientious me is inclined to agree with Louisa May Alcott’s Amy March, “I want to be great or nothing.” Honestly, I don’t believe I was born great, nor expect it to be thrust upon me, but seek to achieve greatness through grit and readiness.`
+`/* That’s where the 🎒 comes in. I love to be prepared and always learning. Conscientious me is inclined to agree with Louisa May Alcott’s Amy March, “I want to be great or nothing.” Honestly, I don’t believe I was born great, nor expect it to be thrust upon me, but seek to achieve greatness through grit and readiness. */`
 <br>
 <br>
 
