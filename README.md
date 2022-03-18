@@ -42,7 +42,7 @@
   <br> 
   `for ( Jenny in last five years ) {`
   <br> 
-  `Jenny = [university graduate, resident in 3 different cities, registered nurse at 3 different highly-ranked, hospitals (alongside the most incredible humans), first-time dog mom, first-time homeowner, first-time aunt (now to 3 nieces), fiance and now wife, masters student (at one of the top 10 Family Nurse Practitioner Programs in the US- then realized it was not the profession for me), graduate of Flatiron School’s software engineering bootcamp]`
+  `Jenny = [university graduate, resident in 3 different cities, registered nurse at 3 different highly-ranked hospitals (alongside the most incredible humans), first-time dog mom, first-time homeowner, first-time aunt (now to 3 nieces), fiance and now wife, masters student (at one of the top 10 Family Nurse Practitioner Programs in the US- then realized it was not the profession for me), graduate of Flatiron School’s software engineering bootcamp]`
   <br> 
   `// TLDR: 🎓🏙 🩺 🐕‍🦺 🏡 🍼 💍 📚 👩🏻‍💻`
   <br> 
