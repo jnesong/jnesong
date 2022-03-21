@@ -48,11 +48,11 @@
   <br> 
 `registered nurse at 3 different highly-ranked hospitals (alongside the most incredible humans),`
   <br> 
-`first-time dog mom,`
+`dog mom,`
   <br> 
-`first-time homeowner,`
+`homeowner,`
   <br> 
-`first-time aunt (now to 3 nieces),`
+`aunt (now to 3 nieces),`
   <br> 
 `fiance and now wife,`
   <br> 
