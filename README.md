@@ -3,7 +3,7 @@
 
 `if (you saw me at a coffee shop,) {`
 <br> 
-`Jenny = [I'm a 5'3" Asian American coffee drinker, with a backpack, typing.] `
+`Jenny = [I'm a coffee drinker, with a backpack, typing.] `
   <br> 
   `// Typing what? I’m coding web dev projects || writing a story! `
   <br> 
@@ -72,7 +72,7 @@
 
 `else {`
 <br> 
-  `Jenny = [still figuring things out.]`
+  `Jenny = [figuring things out.]`
   <br> 
   `// I’m enjoying the process!`
   <br> 
