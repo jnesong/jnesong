@@ -22,13 +22,13 @@
 <br> 
 `if (at the ☕️ shop,) {`
 <br> 
-  `Jenny = [probably been buckled down, focused for hours.]`
+  `Jenny = [buckled down, focused for hours.]`
   <br> 
   `// Another long standing trait.`
   <br> 
 `}`
 <br> 
-`else if (when I’m not in the zone,) {`
+`else if (I’m not in the zone,) {`
 <br> 
   `Jenny = [pursuing community.]`
   <br> 
