@@ -32,7 +32,9 @@
 <br> 
   `Jenny = [pursuing community.]`
   <br> 
-  `// I find great purpose in good company (const good company = where everyone feels welcomed and valued).`
+  `// I find great purpose in good company` 
+    <br> 
+  `const good company = where everyone feels welcomed and valued.`
   <br> 
   `// And people often tell me I’m a good listener.`
   <br> 
