@@ -42,25 +42,7 @@
   <br> 
   `for ( Jenny in last five years ) {`
   <br> 
-  `Jenny = [university graduate,`
-    <br> 
-`resident in 3 different cities I love (Charlottesville, Fairfax, Rochester),`
-  <br> 
-`registered nurse at 3 different highly-ranked hospitals (alongside the most incredible humans),`
-  <br> 
-`dog mom,`
-  <br> 
-`homeowner,`
-  <br> 
-`aunt (now to 3 nieces),`
-  <br> 
-`fiance and now wife,`
-  <br> 
-`masters student (at one of the top 10 Family Nurse Practitioner Programs in the US- then realized it was not the profession for me),`
-  <br> 
-`graduate of Flatiron School’s software engineering bootcamp.]`
-  <br> 
-  `// TLDR: 🎓 🏙 🩺 🐕‍🦺 🏡 🍼 💍 📚 👩🏻‍💻`
+  `Jenny = [ 🎓, 🏙 ,🏙 ,🏙 ,🩺 ,🩺, 🩺, 🐕‍🦺, 🏡 ,🍼 ,💍, 📚 ,👩🏻‍💻`]
   <br> 
 `}`
 <br> 
