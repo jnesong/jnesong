@@ -24,8 +24,6 @@
 <br> 
   `Jenny = [buckled down, focused for hours.]`
   <br> 
-  `// Another long standing trait.`
-  <br> 
 `}`
 <br> 
 `else if (I’m not in the zone,) {`
