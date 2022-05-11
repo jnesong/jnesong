@@ -40,7 +40,8 @@ Honestly, I don’t believe I was born great, nor expect it to be thrust upon me
 else {
   Jenny = [figuring things out.]
   // I’m enjoying the process! 
-  // As per Mark Watney's motto in The Martian, “You solve one problem and you solve the next one and then the next.” 🚀
+  // As per Mark Watney's motto in The Martian, 
+  // “You solve one problem and you solve the next one and then the next.” 🚀
  }
   
 ```
